@@ -1,7 +1,7 @@
 # MIT-Introduction-to-Machine-Learning
-Self paced Learning provided by MIT Open Learning Library-6.036
+It is a Self paced Learning provided by MIT Open Learning Library-6.036
 
-----All docs included in Wiki----Refer to the Wiki Tab----
+----All docs are included in Wiki----Refer to the Wiki Tab----
 
 (OR)
 
